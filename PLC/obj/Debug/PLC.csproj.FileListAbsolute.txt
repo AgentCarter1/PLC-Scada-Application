@@ -1,0 +1,14 @@
+C:\Users\burak\source\repos\PLC\PLC\bin\Debug\PLC.exe.config
+C:\Users\burak\source\repos\PLC\PLC\bin\Debug\PLC.exe
+C:\Users\burak\source\repos\PLC\PLC\bin\Debug\PLC.pdb
+C:\Users\burak\source\repos\PLC\PLC\obj\Debug\PLC.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\PLC\PLC\obj\Debug\PLC.Form1.resources
+C:\Users\burak\source\repos\PLC\PLC\obj\Debug\PLC.Properties.Resources.resources
+C:\Users\burak\source\repos\PLC\PLC\obj\Debug\PLC.csproj.GenerateResource.cache
+C:\Users\burak\source\repos\PLC\PLC\obj\Debug\PLC.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\PLC\PLC\obj\Debug\PLC.exe
+C:\Users\burak\source\repos\PLC\PLC\obj\Debug\PLC.pdb
+C:\Users\burak\source\repos\PLC\PLC\bin\Debug\NetToolKit.dll
+C:\Users\burak\source\repos\PLC\PLC\bin\Debug\SKCLNET.dll
+C:\Users\burak\source\repos\PLC\PLC\bin\Debug\SymbolFactoryDotNet.dll
+C:\Users\burak\source\repos\PLC\PLC\bin\Debug\SymbolFactoryNetEngine.dll
